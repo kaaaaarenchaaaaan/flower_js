@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 24 24" stroke-width="4" stroke-linecap="square" stroke-linejoin="arcs">
+
+<style>
+
+        g{
+            fill:#edbe09;
+            stroke:#edbe09;
+        }
+
+</style>
+    <g>
+        <rect x="3" y="3" width="80" height="80"></rect>
+        <rect x="14" y="3" width="80" height="80"></rect>
+        <rect x="14" y="14" width="80" height="80"></rect>
+        <rect x="3" y="14" width="80" height="80"></rect>
+    </g>
+</svg>
